@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Below are my CV and resume. For references or inquiries, please email me at kevin.ming.lai@gmail.com.
+Below are my CV and resume. For references or inquiries, please email me at joeleung16@outlook.com.
 
 [Curriculum Vitae](https://klai1.github.io/files/Kevin_CV_v2.pdf)
 

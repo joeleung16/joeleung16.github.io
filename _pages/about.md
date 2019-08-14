@@ -3,19 +3,17 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently working at the Federal Reserve Bank of New York as a full-time research analyst in Financial Intermediation. I graduated from Swarthmore College in 2018 with a B.A. in Economics and Mathematics with high honors. 
+I am currently a student at Brigham Young University studying Applied and Computational
+Math with a second major in Economics. I interned at the Federal Reserve Bank of New York
+in the summer of 2019, and also do research in Network theory, Corporate Finance, and
+Bankruptcy.
 
-My current research interests are in international finance, corporate finance, trade, and macroeconomics.
 
-In my free time, I play ultimate frisbee and chamber music with my friends. I am also a Dallas sports fan, primarily supporting the Dallas Mavericks (NBA) and Dallas Cowboys (NFL).
-
-Here are some links of my piano performances and recordings: 
-[Chopin Piano Concerto Op. 11 No. 1](https://www.youtube.com/watch?v=qZOwUwSWcqk), [Chopin Andante Spianato e Grande Polonaise Brilliante Op. 22](https://www.youtube.com/watch?v=VyT-av_7LuY), [Dvorak "Dumky" Trio Excerpt](https://www.youtube.com/watch?v=hwFfCySsRKU)
 
 Recent Updates
 ======
@@ -35,5 +33,3 @@ Recent Updates
 10/23/2018: New Profile Picture compliments of Johnny Vo and [Black Frame Photos](https://www.facebook.com/blackframephotos/)! Go and check them out!
 
 10/3/2018: New Blog Post on [New York Fed RAs (aka FRB NY RAs)](https://klai1.github.io/posts/2018/09/nyfedra/)
-
-
