@@ -1,28 +1,18 @@
 # Authors
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+Name Name:
+  name        : "Name Name"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
 
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
+Name2 Name2:
+  name        : "Name2 Name2"
+  email       : "name2@name2.com"
   bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"
