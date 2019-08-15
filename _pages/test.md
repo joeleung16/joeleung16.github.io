@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "test"
+permalink: /test/
 author_profile: true
 ---
 
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-This section contains my published writing (papers, blogs, etc.).
+This is a test
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
