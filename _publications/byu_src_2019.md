@@ -5,8 +5,8 @@ permalink: /publication/2018-12-12-paper-title-number-1
 excerpt: 'A Machine Learning Analysis on predicting transitions between communities, using baseball teams as a proxy'
 date: 2018-13
 venue: 'BYU SRC 2018'
-paperurl: 'http://joeleung16.github.io/files/byu_baseball.pdf'
+
 ---
 A little something
 
-[Download presentation here](http://joeleung16.github.io/files/byu_baseball.pdf)
+[Download presentation here](http://joeleung16.github.io/files/Joseph_Leung_Resume.pdf)
