@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications/Presentations"
 permalink: /publications/
 author_profile: true
 ---
@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-This section contains my published writing (papers, blogs, etc.).
+This section contains works that I have presented.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

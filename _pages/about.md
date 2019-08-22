@@ -15,21 +15,6 @@ Bankruptcy.
 
 
 
-Recent Updates
-======
+Below is my resume. For references or inquiries, please email me at joeleung16@outlook.com.
 
-**2019**
-
-2/20/2019: Projects section added to [Blog](https://klai1.github.io/year-archive/).
-
-1/20/2019: Added working paper *Capital Control Policy, Industry, and Trade: Evidence from the Past 20 Years* with Tao Wang and David Xu (draft coming)
-
-1/12/2019: CV has been updated and [added](https://klai1.github.io/files/Kevin_CV_v2.pdf).
-
-**2018**
-
-11/12/2018: New Blog Post on [Rising Real Estate Prices in US vs China](https://klai1.github.io/posts/2018/09/realestate/)
-
-10/23/2018: New Profile Picture compliments of Johnny Vo and [Black Frame Photos](https://www.facebook.com/blackframephotos/)! Go and check them out!
-
-10/3/2018: New Blog Post on [New York Fed RAs (aka FRB NY RAs)](https://klai1.github.io/posts/2018/09/nyfedra/)
+[Resume](https://joeleung16.github.io/files/Joseph_Leung_Resume.pdf)
