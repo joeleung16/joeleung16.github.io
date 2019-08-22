@@ -2,20 +2,18 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Working Papers"
     url: /working_papers/
-    
+
   - title: "Teaching"
-    url: /teaching/    
-           
+    url: /teaching/
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV/Resume"
     url: /cv/
-    
-  - title: "test"
-    url: /test/
-    
- 
+
+  - title: "Real World Math"
+    url: /real_world_math/
