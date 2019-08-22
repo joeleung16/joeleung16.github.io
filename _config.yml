@@ -181,7 +181,7 @@ collections:
   working_papers:
     output: true
     permalink: /:collection/:path/
-  test:
+  real_world_math:
     output: true
     permalink: /:collection/:path/
 
@@ -241,10 +241,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _test
+  # _Real World Math (ACME projects to begin with)
   - scope:
       path: ""
-      type: test
+      type: real_world_math
     values:
       layout: single
       author_profile: true
