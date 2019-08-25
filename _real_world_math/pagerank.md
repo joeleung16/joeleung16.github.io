@@ -1,7 +1,7 @@
 ---
 title: "Understanding Google's (old) PageRank Algorithm"
 date: 2019-08-24
-permalink: /posts/2019/08/pagerank/
+permalink: /real_world_math/pagerank/
 tags:
   - google
   - networks
