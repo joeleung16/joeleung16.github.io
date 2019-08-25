@@ -13,13 +13,13 @@ So most people probably know the PageRank Algorithm as the way Google ranks the 
 
 Now a bit of prior knowledge that'll help is certainly a bit of graph theory. There's a lot of places where that's pretty easy to learn, so I won't cover too much of it here. But funny thing is, a lot of the fancy PageRank algorithm simply stems from the old network idea of how things are connected to each other. One website has a link to one or more websites, and on it goes. See **Figure 1** for example. That gives us a simple adjacency matrix to work with.
 
-![graph1](https://joeleung16.github.io/files/PageRank/graph1.png)
+![graph1](https://joeleung16.github.io/images/PageRank/graph1.png)
 
 *Figure 1*: An example graph of how websites are connected. Imagine that, say, website 'a' has a hyperlink to 'b', 'c', and 'd'.
 
 Now there is a bit of variation. Though I can't think of a website like this off of the top of my head, some sites don't link to other websites. So like in node 'b' in **Figure 1**, let's be real, anyone can go anywhere they want to, so in this algorithm we adjust it to say that from website 'b', someone can go wherever they want. Thus we have a new graph and corresponding adjacency matrix like **Figure 2**.
 
-![graph1](https://joeleung16.github.io/files/PageRank/graph2.png)
+![graph1](https://joeleung16.github.io/images/PageRank/graph2.png)
 
 *Figure 2*: Updated from Figure 1
 
@@ -42,3 +42,7 @@ And the basketball and movie data stuff, you ask? Yeah at this point it's litera
 should be UConn, Kentucky, and Louisville, in that order. That season, UConn won the
 championship, Kentucky was a semifinalist, and Louisville lost in the first tournament round
 (a surprising upset).
+
+
+
+Testing: $$e = mc^2$$
