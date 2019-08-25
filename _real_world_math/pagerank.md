@@ -46,7 +46,3 @@ And the basketball and movie data stuff, you ask? Yeah at this point it's litera
 should be UConn, Kentucky, and Louisville, in that order. That season, UConn won the
 championship, Kentucky was a semifinalist, and Louisville lost in the first tournament round
 (a surprising upset).
-
-
-maybe: $$\forall x \in R$$
-Testing: $$e = mc^2$$
