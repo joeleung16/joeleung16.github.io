@@ -1,5 +1,6 @@
 ---
 title: "Understanding Google's (old) PageRank Algorithm"
+collection: real_world_math
 date: 2019-08-24
 permalink: /real_world_math/pagerank/
 tags:
