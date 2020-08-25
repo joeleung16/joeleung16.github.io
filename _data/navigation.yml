@@ -6,11 +6,11 @@ main:
   - title: "Working Papers"
     url: /working_papers/
 
-  - title: "Real World Math"
-    url: /real_world_math/
+  # - title: "Real World Math"
+  #   url: /real_world_math/
 
-  - title: "The Dismal Science"
-    url: /dismal_science/
+  # - title: "The Dismal Science"
+  #   url: /dismal_science/
 
-  - title: "Woes of a Moderate"
-    url: /moderate_woes/
+  # - title: "Woes of a Moderate"
+  #   url: /moderate_woes/

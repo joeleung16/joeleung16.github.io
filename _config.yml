@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joseph Leung"
 title_separator          : "-"
 name                     : &name "Joseph Leung"
-description              : &description "BYU Student | Summer Analyst | Federal Reserve Bank of New York"
+description              : &description "Research Professional"
 url                      : https://joeleung16.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joeleung16/joeleung16.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Joseph Leung"
   avatar           : "profile.jpg"
-  bio              : "BYU Student"
-  location         : "New York, NY"
+  bio              : "Research Professional"
+  location         : "Chicago, IL"
   employer         :
   googlescholar    :
   email            : "joeleung16@outlook.com"
@@ -104,7 +104,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jleung1419"
+  twitter          : "zeleung"
   vine             :
   weibo            :
   xing             :
@@ -181,9 +181,9 @@ collections:
   working_papers:
     output: true
     permalink: /:collection/:path/
-  real_world_math:
-    output: true
-    permalink: /:collection/:path/
+  # real_world_math:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
@@ -233,13 +233,13 @@ defaults:
       author_profile: true
       share: true
   # _Real World Math (ACME projects to begin with)
-  - scope:
-      path: ""
-      type: real_world_math
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: real_world_math
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
