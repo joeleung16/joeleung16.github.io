@@ -8,6 +8,7 @@ tags:
   - networks
 
 ---
+Testing testing
 
 So most people probably know the PageRank Algorithm as the way Google ranks the pages that show up after a google search. Many of those people, like myself, may have thought it was named "PageRank" because of this, when in reality it was named after Larry Page, one of the founders of Google. The cool thing is, this algorithm goes far beyond just ranking website pages and can technically be used to rank mostly anything in a connected society. (Unfortunately, I'm pretty sure Google's done far more by this point to polish their algorithm, and even if I worked there I doubt I could say anything about it) In this post, I explain it in a digestible manner and show how it can be used to rank College Basketball teams and movie actors, as well as websites.
 
